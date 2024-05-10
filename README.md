@@ -1,7 +1,7 @@
 
-# #PRBOOM-PLUS-ENHANCED
+#### PRBOOM-PLUS-ENHANCED
 
-## ##Context:
+#### Context:
 
 
 PRBOOM+ ENHANCED or PRBOOM-PLUS ENHANCED also name PB+G for "PRBOOM-PLUS Green" for short is a port in development for the FPS game serie Doom.
@@ -11,7 +11,7 @@ PRBOOM-PLUS ENHANCED has to be enhanced version of the existing ports PRBOOM-PLU
 For some devices like the Nintendo 3ds, PRBOOM-PLUS ENHANCED 3ds takes some features from some dsdoom, PRBOOM 3ds, and chocolate DOOM for the 3ds, maybe some other ports.
 
 
-## ##Nintendo 3ds
+## Nintendo 3ds
 
 
 So you are in the Readme.md file for the Nintendo 3ds version of PRBOOM-PLUS ENHANCED.
