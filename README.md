@@ -1,4 +1,4 @@
-Last modification the 05/12/24 U
+Last modification the 05/13/24 U
 not end
 # PRBOOM-PLUS-ENHANCED
 
@@ -6,20 +6,21 @@ not end
 ## Context:
 
 
-PRBOOM+ ENHANCED or PRBOOM-PLUS ENHANCED also name PB+G for "PRBOOM-PLUS Green" for short is a port in development for the FPS game Doom.
-So this port is in development since -11/26/2023 15H46.55... (UTC+2) (But Damnerz got the idea before.)
+PRBOOM+ ENHANCED or PRBOOM-PLUS ENHANCED also name PB+G for "PRBOOM-PLUS Green" for short is a copyleft software in development for the FPS game Doom.
+So this is a port is in development since -11/26/2023 15H46.55... (UTC+2) (But Damnerz got the idea before.)
 
-PRBOOM-PLUS ENHANCED has to be enhanced version of the existing ports PRBOOM-PLUS with the new features from others ports : DSDA Doom, MBF (for marine best friends), PRBOOM and maybe others ports.
-For some devices like the Nintendo 3ds, PRBOOM-PLUS ENHANCED 3ds takes some features from some dsDoom, PRBOOM 3ds, and chocolate DOOM for the 3ds, maybe some other ports.
+PRBOOM-PLUS ENHANCED has to be enhanced version of the existing ports PRBOOM-PLUS with the new features from others ports : DSDA Doom (Doom Speed Demo Archive is a website and a Doom source port), MBF ( stand for Marines Best Friend), PRBOOM and maybe others ports (idk like GzDoom or Crispy Doom or Eternity Engine).
+This project will work on a bunch devices like the Nintendo 3ds, PRBOOM-PLUS ENHANCED 3ds takes some features from some DsDoom, PrBoom 3ds, and chocolate DOOM DS/3DS, maybe some other existing ports on the.
 
-### Definitions : [...]
-
+### Definitions (answer & questions) : 
 
 What is a license on Github ?
 
-So a license is a very important a text file for an open-source like prboom-plus-ENHANCED. This document set the legal terms and conditions for using, distributing, and modifying the software. They allow others to contribute and improve  the sofware,, build a community around the project and also protect the rights of the s 
+So a license is a very important a text file for an open-source like prboom-plus-ENHANCED. This document set the legal terms and conditions for using, distributing, and modifying the code of a software. They allow others to contribute and improve the sofware,, build a community around the project and also protect the rights of the software users.
 
+Here is the website of "free software foundation" for more informations.
 
+- https://www.fsf.org/ 
 
 GNU-GPL
 
@@ -30,7 +31,7 @@ Most of GNU is licensed under the GNU Project's own General Public License (GPL)
 
 ## About the feedback, ideas and that type of things:
 
-About the feedback 
+About the feedback, so you can talk about on the project in the discussion channel of PrB
 
 ## Nintendo 3DS
 
@@ -62,35 +63,35 @@ The entire team behind PRBOOM-PLUS ENHANCED is not responsible if you break your
 ### Freedoom :
 
 Website and github for the freedoom wadfiles :
-https://github.com/freeDoom/freeDoom 
-https://freeDoom.github.io/ 
+- https://github.com/freeDoom/freeDoom
+- https://freeDoom.github.io/ 
 
 Get the original Doom's wadfiles to purchase here :
 
 ### Doom 1 :
 
-https://www.gog.com/fr/game/Doom_1993 ;GOG website Doom 1
-or
-https://store.steampowered.com/app/2280/DOOM_1993/ ;Steam Website Doom 1
+- https://www.gog.com/fr/game/Doom_1993 ;GOG website Doom 1
+
+- https://store.steampowered.com/app/2280/DOOM_1993/ ;Steam Website Doom 1
 
 ### Doom 2 :
 
-https://store.steampowered.com/app/2300/DOOM_II/ ;Steam Website Doom 2
-or
-https://www.gog.com/fr/game/Doom_ii ;GOG website Doom 2 
+- https://store.steampowered.com/app/2300/DOOM_II/ ;Steam Website Doom 2
+
+- https://www.gog.com/fr/game/Doom_ii ;GOG website Doom 2 
 
 
 ## Github links 
 
 Here are the repositories at their respective original github profile.
 
-https://github.com/coelckers ;maker of Prboom-Plus source port.
+- https://github.com/coelckers ;maker of Prboom-Plus source port.
 
-https://github.com/Voxel9 ;maker of Prboom-Plus 3DS the port of PRBOOM-PLUS as a Nintendo 3DS homebrew. 
+- https://github.com/Voxel9 ;maker of Prboom-Plus 3DS the port of PRBOOM-PLUS as a Nintendo 3DS homebrew. 
 
-https://github.com/TheChuckster ;maker of DsDoom a the Nintendo DS port of Doom as homebrew.
+- https://github.com/TheChuckster ;maker of DsDoom a the Nintendo DS port of Doom as homebrew.
 
-https://github.com/devinackers ;maker of the PrBoom Nintendo 3DS port as homebrew.
+- https://github.com/devinackers ;maker of the PrBoom Nintendo 3DS port as homebrew.
 
 Go check out their github profile because they're cool.
 
@@ -99,53 +100,52 @@ Go check out their github profile because they're cool.
 
 The official things.
 
-https://en.wikipedia.org/wiki/Doom_(1993_video_game) ;the Doom story
+- https://en.wikipedia.org/wiki/Doom_(1993_video_game) ;the Doom story
 
-https://github.com/id-Software/DOOM ;the base of all sources ports, here it is the Linux Doom source code on github released by John CARMACK himself.
+- https://github.com/id-Software/DOOM ;the base of all sources ports, here it is the Linux Doom source code on github released by John CARMACK himself.
 
 The story of Doom's sources ports:
-https://doomwiki.org/wiki/Source_port ;DoomWiki Doom's sources ports stories and explaination. 
+- https://doomwiki.org/wiki/Source_port ;DoomWiki Doom's sources ports stories and explaination. 
 
 The simplified tree of Doom's sources ports :
 
-https://www.doomworld.com/forum/topic/98216-doom-source-ports-family-tree-simplified-for-wikipedia/ 
-
+- https://www.doomworld.com/forum/topic/98216-doom-source-ports-family-tree-simplified-for-wikipedia/ 
 
 The BOOM branch based on Doom, Linux Doom, and DOSDoom.
 
-https://doomwiki.org/wiki/DOSDoom ;DoomWiki DOSDoom
+- https://doomwiki.org/wiki/DOSDoom ;DoomWiki DOSDoom
 
-https://doomwiki.org/wiki/Boom ;DoomWiki Boom
+- https://doomwiki.org/wiki/Boom ;DoomWiki Boom
 
-https://doomwiki.org/wiki/PrBoom ;DoomWiki PrBoom
+- https://doomwiki.org/wiki/PrBoom ;DoomWiki PrBoom
 
-https://DoomWiki.org/wiki/PrBoom%2B ;DoomWiki Prboom-Plus 
+- https://DoomWiki.org/wiki/PrBoom%2B ;DoomWiki Prboom-Plus 
 
-https://DoomWiki.org/wiki/MBF ;DoomWiki MBF port
+- https://DoomWiki.org/wiki/MBF ;DoomWiki MBF port
 
-https://DoomWiki.org/wiki/DSDA-Doom ;DoomWiki DSDA Doom port
+- https://DoomWiki.org/wiki/DSDA-Doom ;DoomWiki DSDA Doom port
 
 
 Doom on everything ////
 
-https://en.wikipedia.org/wiki/List_of_Doom_ports ;
+- https://en.wikipedia.org/wiki/List_of_Doom_ports ;
 
 Nintendo DS/DSi
 ---------------
 
-https://DoomWiki.org/wiki/DS_Doom ;DoomWiki DsDoom
-https://Doom.fandom.com/wiki/DsDoom ;Doom fandom DsDoom
+- https://DoomWiki.org/wiki/DS_Doom ;DoomWiki DsDoom
+- https://Doom.fandom.com/wiki/DsDoom ;Doom fandom DsDoom
 
 Nintendo 3DS
 ------------
 
-https://Doom.fandom.com/wiki/Prboom3DS ;Doom fandom PrBoom3DS
-https://github.com/devinacker/prboom-3ds ;Github of the maker of the PrBoom3DS 
+- https://Doom.fandom.com/wiki/Prboom3DS ;Doom fandom PrBoom3DS
+- https://github.com/devinacker/prboom-3ds ;Github of the maker of the PrBoom3DS 
 
 
 Others important links :
 
-https://www.fsf.org/ ;free software foundation website
+- https://www.fsf.org/ ;free software foundation website
 
 
 
