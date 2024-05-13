@@ -2,16 +2,24 @@ Last modification the 05/12/24 U
 not end
 # PRBOOM-PLUS-ENHANCED
 
+
 ## Context:
 
 
-PRBOOM+ ENHANCED or PRBOOM-PLUS ENHANCED also name PB+G for "PRBOOM-PLUS Green" for short is a port in development for the FPS game serie Doom.
+PRBOOM+ ENHANCED or PRBOOM-PLUS ENHANCED also name PB+G for "PRBOOM-PLUS Green" for short is a port in development for the FPS game Doom.
 So this port is in development since -11/26/2023 15H46.55... (UTC+2) (But Damnerz got the idea before.)
 
 PRBOOM-PLUS ENHANCED has to be enhanced version of the existing ports PRBOOM-PLUS with the new features from others ports : DSDA Doom, MBF (for marine best friends), PRBOOM and maybe others ports.
 For some devices like the Nintendo 3ds, PRBOOM-PLUS ENHANCED 3ds takes some features from some dsDoom, PRBOOM 3ds, and chocolate DOOM for the 3ds, maybe some other ports.
 
 ### Definitions : [...]
+
+
+What is a license on Github ?
+
+So a license is a very important a text file for an open-source like prboom-plus-ENHANCED. This document set the legal terms and conditions for using, distributing, and modifying the software. They allow others to contribute and improve  the sofware,, build a community around the project and also protect the rights of the s 
+
+
 
 GNU-GPL
 
