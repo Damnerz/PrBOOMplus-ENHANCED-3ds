@@ -16,7 +16,7 @@ PrBOOMplus-ENHANCED has to be enhanced version of the existing ports PrBOOM-PLUS
 
 What is a license on Github ?
 
-So a license is a very important a text file for an open-source like prboom-plus-ENHANCED. This document set the legal terms and conditions for using, distributing, and modifying the code of a software. They allow others to contribute and improve the sofware,, build a community around the project and also protect the rights of the software users.
+So a license is a very important a text file for an open-source project like prboom-plus-ENHANCED. This document set the legal terms and conditions for using, distributing, and modifying the code of a software. They allow others to contribute and improve the sofware,, build a community around the project and also protect the rights of the software users.
 
 Here is the website of "free software foundation" for more informations.
 
@@ -36,8 +36,10 @@ Everyone can be a contributors and can contribute to this open-source project. Y
 ## About the feedback, ideas and that type of things:
 
 About the feedback, so you can talk about on the project in the discussion channel of PrBoom-Plus-ENHANCED on the Github. There are differents channels to talk for the purpose.
+
 - https://github.com/Damnerz/PrBOOMplus-ENHANCED-3ds/discussions
-Or just click on this link: https://discord.gg/Xw9DEsbZdj
+
+Or just click on this link: - https://discord.gg/Xw9DEsbZdj
 
 ## Nintendo 3DS
 
@@ -69,7 +71,9 @@ The entire team behind PrBOOMplus-ENHANCED is not responsible if you break your 
 ### Freedoom :
 
 Website and github for the freedoom wadfiles :
+
 - https://github.com/freeDoom/freeDoom
+
 - https://freeDoom.github.io/ 
 
 Get the original Doom's wadfiles to purchase here :
@@ -93,7 +97,7 @@ Here are the repositories at their respective original github profile.
 
 - https://github.com/coelckers ;maker of Prboom-Plus source port.
 
-- https://github.com/Voxel9 ;maker of Prboom-Plus 3DS the port of PrBOOMplus-ENHANCED as a Nintendo 3DS homebrew. 
+- https://github.com/Voxel9 ;maker of Prboom-Plus 3DS the port of PrBOOMplus as a Nintendo 3DS homebrew. 
 
 - https://github.com/TheChuckster ;maker of DsDoom a the Nintendo DS port of Doom as homebrew.
 
