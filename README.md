@@ -1,7 +1,7 @@
 Last modification the 06/13/24 U
 not end
 
-# PrBOOMplus-ENHANCED-ENHANCED
+# PrBOOMplus-ENHANCED
 
 
 ## Context:
