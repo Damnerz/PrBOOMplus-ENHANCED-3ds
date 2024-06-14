@@ -1,5 +1,4 @@
-Last modification the 06/13/24 U
-not end
+
 
 # PrBOOMplus-ENHANCED
 
@@ -10,19 +9,19 @@ not end
 PRBOOM+ ENHANCED or PrBOOMplus-ENHANCED also name PB+G for "PrBOOMplus-Green" for short is a free copyleft software in development for the FPS game Doom.
 So this is a port is in development since -11/26/2023 15H46.55... (UTC+2) (But Damnerz got the idea before.)
 
-PrBOOMplus-ENHANCED has to be enhanced version of the existing ports PrBOOM-PLUS with the new features from others ports : DSDA Doom (Doom Speed Demo Archive is a website and a Doom source port), MBF ( stand for Marines Best Friend), PRBOOM and maybe others ports (idk like GzDoom or Crispy Doom or Eternity Engine). This project will work on a bunch devices like the Nintendo 3ds, PrBOOMplus-ENHANCED 3ds takes some features from some DsDoom, PrBoom 3ds, and chocolate DOOM DS/3DS, maybe some other existing ports on the web.
+PrBOOMplus-ENHANCED has to be enhanced version of the existing ports PrBOOM-PLUS with the new features from others ports : DSDA Doom (Doom Speed Demo Archive is a website and a Doom source port), MBF (stand for Marines Best Friend), PRBOOM and maybe others ports (idk like GzDoom or Crispy Doom or Eternity Engine). This project will work on a bunch devices like the Nintendo 3ds and Linux and Windows OS, PrBOOMplus-ENHANCED 3ds takes some features from some DsDoom, PrBoom 3ds, and chocolate DOOM DS/3DS, maybe some other existing ports on the web.
 
 ### Definitions (answer & questions) : 
 
 What is a license on Github ?
 
-So a license is a very important a text file for an open-source project like prboom-plus-ENHANCED. This document set the legal terms and conditions for using, distributing, and modifying the code of a software. They allow others to contribute and improve the sofware,, build a community around the project and also protect the rights of the software users.
+So a license is a very important a text file for an open-source project like prboom-plus-ENHANCED. This document set the legal terms and conditions for using, distributing, and modifying the code of a software. They allow others to contribute and improve the sofware, build a community around the project and also protect the rights of the software users.
 
 Here is the website of "free software foundation" for more informations.
 
 - https://www.fsf.org/ 
 
-GNU-GPL
+Small definition of GNU-GPL.
 
 GNU is an extensive collection of free software, 
 which can be used as an operating system or can be used in parts with other operating systems.
@@ -31,15 +30,17 @@ Most of GNU is licensed under the GNU Project's own General Public License (GPL)
 
 ## How to be contributors on this project????
 
-Everyone can be a contributors and can contribute to this open-source project. You can submit some logos, some sprites, some maps (Why Not), some part of code. You don't need to be experiemented to contribute to this project. To share your ideas you have the github channel and the discord channel too. You don't a big pc to help to dev this homebrew port. Keep in mind that everything will be checked to avoid problems and that we will have to be convinced to add your ideas.
+Everyone can be a contributors and can contribute to this open-source project. You can submit some logos, some sprites, some maps (Why Not), some code. You don't need to be experiemented to contribute to this project. To share your ideas you have the github channel and the discord channel too on. You don't a big devices to help to create this software/homebrew port. Keep in mind that everything will be checked to avoid problems and that we will have to be convinced to add your ideas, 
+such things a vote or an event in the community would be appreciated.
 
 ## About the feedback, ideas and that type of things:
 
-About the feedback, so you can talk about on the project in the discussion channel of PrBoom-Plus-ENHANCED on the Github. There are differents channels to talk for the purpose.
+About the feedback, so you can discuss about on the project in the discussion channel of PrBoom-Plus-ENHANCED on the Github. There are differents channels to talk for the purpose.
 
 - https://github.com/Damnerz/PrBOOMplus-ENHANCED-3ds/discussions
 
 Or just click on this link: - https://discord.gg/Xw9DEsbZdj
+Its the discord server of PrBOOMplus-ENHANCED a way to bring the community together. 
 
 ## Nintendo 3DS
 
@@ -91,7 +92,7 @@ Get the original Doom's wadfiles to purchase here :
 - https://www.gog.com/fr/game/Doom_ii ;GOG website Doom 2 
 
 
-## Github links 
+## Github links //GOD TIER PEOPLES
 
 Here are the repositories at their respective original github profile.
 
@@ -140,7 +141,9 @@ Doom on everything ////
 
 - https://en.wikipedia.org/wiki/List_of_Doom_ports ;
 
-Nintendo Officials and Unofficials Doom sources ports as homebrews .
+Here is some examples of Nintendo Devices where you can play Doom on it:
+
+Nintendo Officials and Unofficials Doom sources ports as homebrews.
 
 Super Nintendo Entertainment System (SNES)
 ------------------------------------------
