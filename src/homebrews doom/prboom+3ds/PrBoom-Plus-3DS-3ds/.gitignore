@@ -1,0 +1,74 @@
+# PrBoom files
+*.cfg
+*.dat
+*.wad
+*.deh
+*.dsg
+stdout.txt
+stderr.txt
+
+# 3DS files
+*.3dsx
+*.smdh
+*.cia
+*.shbin
+*_shbin.h
+icon.bin
+banner.bin
+
+# Visual Studio Code
+.vscode/
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+*.lst
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf

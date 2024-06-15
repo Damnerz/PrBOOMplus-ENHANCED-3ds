@@ -1,0 +1,77 @@
+===========================================================================
+Archive Maintainer      : Place in /sounds
+Uploaded by             : Miguel Folatelli (aka myk)
+Uploader's email        : myk@fibertel.com.ar (add the word "doom" to the
+                          subject if you message me, to avoid filters.)
+Notes                   : These patches can be used either by Doom with a
+                          GUS card or by any engines that support TiMidity
+                          (like Boom, or those that use SDL.) The package
+                          contains the full EAWPATS set plus the assorted
+                          drum patches that Eric A. Welsh offered on his
+                          site. Eric's site is gone, and while the patches
+                          do show up on some Linux distros and sites, they
+                          sometimes lack the extra drums or aren't easy to
+                          locate or download.
+===========================================================================
+Title                   : EAWPATS GUS patches
+Filename                : EAWPATS.ZIP, *.PAT
+Upload date             : November 15th, 2005
+Author                  : Eric A. Welsh
+Email Address           : ewelsh@gpc.wustl.edu (might not work)
+Misc. Author Info       : Center for Molecular Design
+                          Center for Computational Biology
+                          Washington University
+                          St. Louis, MO
+
+Description             : This is a collection of Gravis UltraSound patches
+                          for use with a GUS, or with "softsynth" midi
+                          players such as Cubic Player and TiMidity.
+
+Additional Credits to   : Richard Sanders, Masanao Izumo, Sergey Batov,
+                          Laurent Martelli, Tasos Tzimoro, Andy Bakke,
+                          Pavel Vrabec, Julie Brandon, John Sankey,
+                          Pedro Lopez, Jim Oliver, Jeff Medaglia
+                          All the people who sampled these patches in the
+                          first place
+                          Anyone else I may have forgotten at the moment
+===========================================================================
+* What is included *
+
+New levels              : None
+Sounds                  : Sort of (see below)
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : Yes; Gravis UltraSound patches for music
+
+
+* Construction *
+
+Base                    : I collected patches from the Ultrasound mirrors,
+                          Midia, Kurzweil archives, Roland archives, Yamaha
+                          archives, Maui, maybe a few from MAZ, and just
+                          about every known source of patches on the net.
+May Not Run With...     : Engines that don't support either GUS cards or
+                          TiMidity
+
+
+* Copyright / Permissions *
+
+These patches are not to be sold for profit (heaven forbid).  They were
+free when I got them and so they shall remain. (See COPYRIGH.TXT in the
+ZIP package.)
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+Web sites:
+FTP sites:
+

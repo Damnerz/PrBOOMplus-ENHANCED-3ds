@@ -1,0 +1,16 @@
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+/build*
+/dependencies*
+/prboom2/ICONS/icons.aps
+/prboom2/ImportExecutables.cmake
+/prboom2/release
+/prboom2/arch.c
+/prboom2/config.h
+/prboom2/data/rdatawad
+/prboom2/prboom-plus
+/prboom2/prboom-plus-game-server
+/prboom2/prboom-plus.wad

@@ -1,0 +1,42 @@
+; Example PICA200 vertex shader
+
+; Uniforms
+.fvec mv_mtx[4]
+.fvec p_mtx[4]
+.fvec t_mtx[4]
+
+; Outputs
+.out outclr color
+.out outtc0 texcoord0
+.out outpos position
+
+; Inputs (defined as aliases for convenience)
+.alias inclr v0
+.alias intc0 v1
+.alias inpos v2
+
+.proc main
+	; r0 = mv_mtx * inpos
+	dp4 r0.x, mv_mtx[0], inpos
+	dp4 r0.y, mv_mtx[1], inpos
+	dp4 r0.z, mv_mtx[2], inpos
+	dp4 r0.w, mv_mtx[3], inpos
+
+	; outpos = p_mtx * r0
+	dp4 outpos.x, p_mtx[0], r0
+	dp4 outpos.y, p_mtx[1], r0
+	dp4 outpos.z, p_mtx[2], r0
+	dp4 outpos.w, p_mtx[3], r0
+
+	; outtc0 = t_mtx * intc0
+	dp4 outtc0.x, t_mtx[0], intc0
+	dp4 outtc0.y, t_mtx[1], intc0
+	dp4 outtc0.z, t_mtx[2], intc0
+	dp4 outtc0.w, t_mtx[3], intc0
+
+	; outclr = inclr
+	mov outclr, inclr
+
+	; We're finished
+	end
+.end
