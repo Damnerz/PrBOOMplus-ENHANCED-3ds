@@ -4,12 +4,12 @@
 
 # Table of contents
 
-## -Context
-## -Definitions
-## -How to contribute?
-## -About the feedback
-## -Nintendo 3DS 
-## -Some links for more informations
+#### -Context
+#### -Definitions
+#### -How to contribute?
+#### -About the feedback
+#### -Nintendo 3DS 
+#### -Some links for more informations
 
 
 ## Context:
