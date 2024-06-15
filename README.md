@@ -2,13 +2,21 @@
 
 # PrBOOMplus-ENHANCED
 
+# Table of contents
+
+## -Context
+## -Definitions
+## -How to contribute?
+## -About the feedback
+## -Nintendo 3DS 
+## -Some links for more informations
+
 
 ## Context:
 
 
 PRBOOM+ ENHANCED or PrBOOMplus-ENHANCED also name PB+G for "PrBOOMplus-Green" for short is a free copyleft software in development for the FPS game Doom.
 So this is a port is in development since -11/26/2023 15H46.55... (UTC+2) (But Damnerz got the idea before.)
-
 PrBOOMplus-ENHANCED has to be enhanced version of the existing ports PrBOOM-PLUS with the new features from others ports : DSDA Doom (Doom Speed Demo Archive is a website and a Doom source port), MBF (stand for Marines Best Friend), PRBOOM and maybe others ports (idk like GzDoom or Crispy Doom or Eternity Engine). This project will work on a bunch devices like the Nintendo 3ds and Linux and Windows OS, PrBOOMplus-ENHANCED 3ds takes some features from some DsDoom, PrBoom 3ds, and chocolate DOOM DS/3DS, maybe some other existing ports on the web.
 
 ### Definitions (answer & questions) : 
