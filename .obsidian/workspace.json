@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97f01fe0c38fe8a7",
+            "id": "b47a10a168c77735",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -138,14 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a65766d288974205",
+  "active": "b47a10a168c77735",
   "lastOpenFiles": [
-    "TOOLS LIST.md",
-    "TODO.md",
     "LICENSE.md",
     "CREDITS.md",
     "README.md",
     "SRSP.md",
+    "TOOLS LIST.md",
+    "TODO.md",
     "data"
   ]
 }

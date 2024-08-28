@@ -1,3 +1,5 @@
+
+
 Damnerz's list tools/software
 
 	obsidian %%my favorite text editor for the .md file%%
@@ -17,5 +19,22 @@ Damnerz's list tools/software
 	UltimateDoomBuilder %%my main mapping tools%%
 
 
-#### Add all the source ports
+#### All the source ports
+
+LinuxDoom
+DoomGeneric
+DOSDoom
+GzDoom
+Zandronum
+Crispy Doom
+Chocolate Doom
+PrBoom
+PrBoom-Plus
+DSDA Doom
+
+DOOM 1 + 2
+DOOM 2 gog
+DOOM Enhanced
+
+
 You should be ok + plus you use alternatives softwares if you want.
