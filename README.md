@@ -6,7 +6,7 @@
 ## -Context
 
 ### What is PrBoom-Plus-Enhanced ?
-PrBoom+ Enhanced or PrBoom-Plus-Enhanced also name PB+E is a free copyleft software in development for the FPS game Doom (PrBoom-Plus-Enhanced Launcher, OS... are affiliated to the same idea). So this is a port is in development since -11/26/2023 15H46.55... (UTC+2) [^But Damnerz got the idea before.] PrBoom-Plus-Enhanced has to be enhanced version of the existing ports PrBoom-Plus with the new features from others ports : DSDA Doom (Doom Speed Demo Archive is a website and a Doom source port), MBF (stand for Marines Best Friend), PrBoom and maybe others ports (idk like GzDoom or Crispy Doom or Eternity Engine). This project will work on a bunch devices like the Nintendo 3DS and Linux distros and Windows OS, PrBoom-Plus-Enhanced 3DS takes some features from some DsDoom, PrBoom 3ds, and chocolate DOOM DS/3DS, maybe some other existing ports availible on the web.
+PrBoom+ Enhanced or PrBoom-Plus-Enhanced also name PB+E is a free copyleft software in development for the FPS game Doom (PrBoom-Plus-Enhanced Launcher, and the versions for an operating system... are affiliated to the same idea). So this is a port is in development since -11/26/2023 15H46.55... (UTC+2) [^But Damnerz got the idea before.] PrBoom-Plus-Enhanced has to be enhanced version of the existing ports PrBoom-Plus with the new features from others ports : DSDA Doom (Doom Speed Demo Archive is a website and a Doom source port), MBF (stand for Marines Best Friend), PrBoom and maybe others ports (idk like GzDoom or Crispy Doom or Eternity Engine). This project will work on a bunch devices like the Nintendo 3DS and Linux distros and Windows OS, PrBoom-Plus-Enhanced 3DS takes some features from some DsDoom, PrBoom 3ds, and chocolate DOOM DS/3DS, maybe some other existing ports available on the web.
 ## -Purpose of the project
 
 So the goals of the project are :
@@ -31,6 +31,8 @@ So the goals of the project are :
 		examples :
 		have a good time when we test the online multiplayer,
 		finding cool bugs.
+
+
 ## -Definitions
 
 #### The Github language : 
@@ -53,16 +55,18 @@ What is a source port ?
 
 For simple a source port is a software based on the source code of a game engine (linuxdoom 1.10) like the Doom Engine also called Id Tech 1 it's basically Doom 1, Doom 2 and many others licensed games like Hexen, Heretic, Blood, Duke Nukem 3D etc.
 
-A source port allows the game to be played on operating systems and computing platforms with which the game wasn't originally compatible.
+A source port allows the game to be played on operating systems and computing platforms with which the game wasn't originally compatible. (Thats why Doom run onerything)
 
 #### The Homebrew language :
 
 What is a homebrew ?
 
-In the easyest way to say it a homebrew is a game/software made by the hobbyists for proprietary video game consoles which are not intended to be user-programable.
+In the easyest way to say, a homebrew is a game/software made by the hobbyists for proprietary video game consoles which are not intended to be user-programable. (hack your console and program an app with sdk, toolchain)
+
 ## How to be a contributors on this project ? 
 
- Everyone can be a contributors and can contribute to this open-source project. You can submit some logos, some sprites, some maps (Why Not), some code/scripts, some mods/wads/pk3 or just some texts. You don't need to be experiemented to contribute to this project. To share your ideas you have the github channel and the discord channel too. You don't a big devices to help to create this software/homebrew port. Keep in mind that everything will be checked to avoid problems and that we will have to be convinced to add your ideas, such things as a vote or an event in the community would be appreciated you can choose.
+Everyone can be a contributor and can contribute to this open-source project. You can submit some logos, some sprites, some maps (Why Not), some code/scripts, some mods/wads/pk3 or just some texts. You don't need to be experiemented to contribute to this project. To share your ideas you have the github channel and the discord channel too. You don't a big devices to help to create this software/homebrew port. Keep in mind that everything will be checked to avoid problems and that we will have to be convinced to add your ideas, such things as a vote or an event in the community would be appreciated you can choose.
+
 ## About the feedback, ideas *etc* 
 
 About the feedback, so you can discuss about on the project in the discussion channel of PrBoom-Plus-Enhanced on the Github. There are differents channels to talk for the purpose.
@@ -110,26 +114,44 @@ Keep in mind PrBoom-plus-Enhanced is big and inspired of DSDA Doom and others co
 
 #### Main features :
 
-In game :
+In game : 
 
-BOTTOMSCREEN/TOUCHSCREEN/DUALSCREEN :
+ONE SCREEN MODE :
+-Be alble to play on one screen only. //taken from DsDoom
+(can boost performance)
 
--On the bottom screen you are able to use 8 virtuals buttons as shortcuts.
--Use the touchscreen as a virtual mouse.
--Use the touchscreen as virtual keyboard.
--Use the bottomscreen to show the map at the same time you play the game.
--Use the bottomscreen to show the doomguy HUD.
--Use the bottomscreen to show the coordinates of doomguy.
-Buttons to show the map, to show the keyboard, to show the mouse.
+CUSTOMIZE YOUR HUD :
+-Be able to customize position of HUD in the settings upper or lower screen. //taken from DsDoom
+
+REMAPPABLE BUTTONS SHORTCUTS / MACROS :
+-On the bottom screen you are able to use 8 virtuals buttons as shortcuts. //taken from PrBoom-3DS
+
+MOUSE LOOK :
+-Use the touchscreen as a virtual mouse. //rework of the PrBoom-Plus-3DS
+
+VIRTUAL KEYBOARD :
+-Use the touchscreen as virtual keyboard. //taken from DsDoom
+
+BOTTOMSCREEN MAP :
+-Use the bottomscreen to show the map at the same time you play the game. //taken from PrBoom-3DS
+
+BOTTOMSCREEN MAP :
+-Use the bottomscreen to show the doomguy HUD. //taken from DsDoom
+
+BOTTOMSCREEN COORDINATES :
+-Use the bottomscreen to show the coordinates of doomguy. //taken from PrBoom-3DS
+
+BOTTOMSCREEN BLACK SCREEN SHORTCUT :
+-Buttons on the bottomscreen to show the map, to show the keyboard, to show the mouse. //made and taken from PrBoom-Plus-3DS
 
 KEY MAPPING : 
--In game, working key mapping or using the text editor built-in the launcher you are able to modify and use multiples configurations files.
+-"In game/launcher it's in the .3dsx", working key mapping or using the text editor built-in the launcher you are able to modify and use multiples configurations files and arguments.
 
 SCREENSHOTS : 
 -Working screenshots in a special folder in the disk/sdcard.
 
-POTATO MODE : A feature taken from FastDoom DOS.
--For ultra Low Resolution usefull when you use ressourcefull wads.
+POTATO MODE : A feature taken from FastDoom DOS. 80*50 pixels
+(For ultra Low Resolution usefull when you use demanding wads for the device.)
 
 Launcher :
 
@@ -291,7 +313,7 @@ Unofficials Homebrews ports.
 - https://www.gamebrew.org/wiki/Prboom_3DS ;Gamebrew webpage of PrBoom 3DS
 - https://www.gamebrew.org/wiki/PrBoom3DS ;Gamebrew webpage of PrBoom3DS
 ###### PrBoom-Plus-3DS
-[^soon ]
+- https://github.com/Voxel9/PrBoom-Plus-3DS ;Github webpage of PrBoom-Plus-3DS
 
 
 
