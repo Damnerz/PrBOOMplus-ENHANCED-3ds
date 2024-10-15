@@ -1,0 +1,72 @@
+DsDoom SVN 1.4
+
+Changes:
+*New menu, still things to add
+*Fixed the weapon switch with the super shotgun on TNT and PLUTONIA
+*Fixed the off-center intermission screen
+
+TODO:
+*Finish the new menu
+
+DsDoom SVN 1.3
+
+Changes:
+*Fixed the icon
+*Changed the controls
+    - X = Weapon Down
+    - Y = Fire
+    - B = Sprint/Use/Escape on menus
+    - A = Weapon Up/Enter on menus
+*You can now select the Super Shotgun in Doom2+
+*There is now a keyboard on the bottom screen (Cheats don't work for whatever reason atm)
+  You can change weapons with this easier though
+*Fixed the high pitched beeps in the music finishes/changes
+*Corrected the versions on the first screen
+*Other minor bugs I forgot
+
+TODO:
+*Bring back the automap
+*Fix the off-center intermission screen
+*Make prboom.cfg SAVE
+
+DsDoom SVN 1.2
+*MUSIC!!! - Thanks to elhobbs :D
+*Fixed that small hud bug with 'Arms'
+*Single Screen
+*New icon!
+
+BUGS: 
+*The head on the HUD is slightly buggy by 1 pixel
+*There is no automap at all now... oops
+*Sometimes sounds will not play if there are a lot of instuments in a song
+*A ton of other bugs
+
+DsDoom SVN 1.1
+*No more screen scaling!
+It now directly renders at 256x192!
+
+BUGS:
+*When you complete a map the text is a little off-center.
+*The 'Arms' on the status bar 1 pixel off
+
+
+DsDoom SVN 1.0
+*Improved the first screen.
+*WAD Selection.
+*Original 'Ouch' face bug fixed.
+
+
+
+
+DsDoom SVN Created by:
+Kippykip
+elhobbs
+
+Original DsDoom Created by:
+Chuck Moyes
+Dave Murphy
+Wouter Groeneveld
+
+happy_bunny
+
+*See "AUTHORS.txt"*
