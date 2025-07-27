@@ -5,7 +5,7 @@
 
 ## -Context
 
-### What is PrBoom-Plus-Enhanced ?
+### What is PrBoom-Plus-Enhanced
 PrBoom+ Enhanced or PrBoom-Plus-Enhanced also name PB+E is a free copyleft software in development for the FPS game Doom (PrBoom-Plus-Enhanced Launcher, and the versions for an operating system... are affiliated to the same idea). So this is a port is in development since -11/26/2023 15H46.55... (UTC+2) [^But Damnerz got the idea before.] PrBoom-Plus-Enhanced has to be enhanced version of the existing ports PrBoom-Plus with the new features from others ports : DSDA Doom (Doom Speed Demo Archive is a website and a Doom source port), MBF (stand for Marines Best Friend), PrBoom and maybe others ports (idk like GzDoom or Crispy Doom or Eternity Engine). This project will work on a bunch devices like the Nintendo 3DS and Linux distros and Windows OS, PrBoom-Plus-Enhanced 3DS takes some features from some DsDoom, PrBoom 3ds, and chocolate DOOM DS/3DS, maybe some other existing ports available on the web.
 ## -Purpose of the project
 
@@ -35,7 +35,7 @@ So the goals of the project are :
 
 ## -Definitions
 
-#### The Github language : 
+#### The Github language
 
  What is a license on Github ?
 
@@ -49,7 +49,7 @@ Small definition of GNU-GPL :
 
 GNU is an extensive collection of free software, which can be used as an operating system or can be used in parts with other operating systems. The use of the completed GNU tools led to the family of operating systems popularly known as Linux. Most of GNU are licensed under the GNU Project's own General Public License (GPL).
 
-#### The Doom language :
+#### The Doom language
 
 What is a source port ?
 
@@ -57,17 +57,17 @@ For simple a source port is a software based on the source code of a game engine
 
 A source port allows the game to be played on operating systems and computing platforms with which the game wasn't originally compatible. (Thats why Doom run onerything)
 
-#### The Homebrew language :
+#### The Homebrew language
 
 What is a homebrew ?
 
 In the easyest way to say, a homebrew is a game/software made by the hobbyists for proprietary video game consoles which are not intended to be user-programable. (hack your console and program an app with sdk, toolchain)
 
-## How to be a contributors on this project ? 
+## -How to be a contributors on this project
 
 Everyone can be a contributor and can contribute to this open-source project. You can submit some logos, some sprites, some maps (Why Not), some code/scripts, some mods/wads/pk3 or just some texts. You don't need to be experiemented to contribute to this project. To share your ideas you have the github channel and the discord channel too. You don't a big devices to help to create this software/homebrew port. Keep in mind that everything will be checked to avoid problems and that we will have to be convinced to add your ideas, such things as a vote or an event in the community would be appreciated you can choose.
 
-## About the feedback, ideas *etc* 
+## -About the feedback, ideas 
 
 About the feedback, so you can discuss about on the project in the discussion channel of PrBoom-Plus-Enhanced on the Github. There are differents channels to talk for the purpose.
 
@@ -80,7 +80,7 @@ Give us a lot of bugs and a way to reproduce their behaviors, with explainations
 Give us some syntax errors.
 We need your help.
 
-## Nintendo 3DS :
+## -Nintendo 3DS 
 
 So you are in the Readme.md file for the Nintendo 3ds version of PrBoom-Plus-Enhanced.
 
@@ -105,14 +105,14 @@ All the 3ds systems can have this homebrew port with a hacked devices.
 But it's at you to search for how to hacked your 3ds system.
 The entire team behind PrBoom-Plus-Enhanced is not responsible if you break your devices.
 
-## -Game features :
+## -Game features 
 
 So first of all, some features will be enabled or disabled depending on the device you are using.
 example: on a Nintendo 3DS you can use the boutons on touch screen, on PC it's useless to have this feature, you have the idea ;).
 
 Keep in mind PrBoom-plus-Enhanced is big and inspired of DSDA Doom and others cool features imported or recoded from others cool source ports. An others ideas.
 
-#### Main features :
+#### Main features 
 
 In game : 
 
@@ -155,45 +155,40 @@ POTATO MODE : A feature taken from FastDoom DOS. 80*50 pixels
 
 Launcher :
 
-LAUNCHER : Based on Doom-it and ZDL
+LAUNCHER : Inspiration on Doom-it and ZDL
 -A gui with ease to use, for managing and launch your wads and dehackeds and launch them. (multiples wads and dehackeds at the same time)
 A box to customs small arguments to launch demos etc.
 Launch custom online game with gui to enter port and ip address and thing related to servers.
 In this launcher you can  modify your text file with text editor built-in. 
 
 
-## -Installation process :
+## -Installation process 
 %%for now no more details beacuse you know it's like every homebrews on 3ds i will explain that later:)%%
 
-#### On a Nintendo 3DS :
+#### On a Nintendo 3DS 
 
 on sd card
 
 In FBI with a .CIA
 
-#### On an Emulators :
+#### On an Emulators 
 
 using sdmc (virtual sd card)
 
 with the emulator using .CIA
 
-## -Related repos of the project :
-
-PrBoom-Plus-Enhanced Windows
-- https://github.com/Damnerz/PrBOOMplus-ENHANCED-Windows ;
-
-PrBoom-Plus-Enhanced Linux 
-- https://github.com/Damnerz/PrBOOMplus-ENHANCED-Linux ;
+## -Related repos of the project 
 
 PrBoom-Plus-Enhanced Nintendo 3DS
 - https://github.com/Damnerz/PrBOOMplus-ENHANCED-3DS ;
 
 PrBoom-Plus-Enhanced Launcher
 - https://github.com/Damnerz/PrBOOMplus-ENHANCED-launcher ;
-## Extra links :
+  
+## -Extra links 
 
-### Get Doom :
-#### Freedoom :
+### Get Doom 
+#### Freedoom 
 
 Website and github for the freedoom wadfiles :
 
@@ -203,20 +198,20 @@ Website and github for the freedoom wadfiles :
 
 Get the original Doom's wadfiles to purchase here :
 
-#### Doom 1 :
+#### Doom 1 
 
 - https://www.gog.com/fr/game/Doom_1993 ;GOG website Doom 1
 
 - https://store.steampowered.com/app/2280/DOOM_1993/ ;Steam Website Doom 1
 
-#### Doom 2 :
+#### Doom 2 
 
 - https://store.steampowered.com/app/2300/DOOM_II/ ;Steam Website Doom 2
 
 - https://www.gog.com/fr/game/Doom_ii ;GOG website Doom 2 
 
 Others wadfiles will be compatible like Ultimate Doom Chex Quest and HACX. 
-### Github links //GOD TIER PEOPLES
+### Github profile links
 
 Here are the repositories at their respective original github profile.
 
